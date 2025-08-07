@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuller04&show_icons=true&locale=en" alt="lemuller04" /></p>
 
-(This readme is a WIP, working on a better one :)
+(This readme is a WIP :)
