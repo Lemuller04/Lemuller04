@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate tech student from Brazil.</h3>
 
+<hr>
+
+<h3>Currently:</h3>
+<p>Studying front end development at <a href="https://www.theodinproject.com">The Odin Project</a>.</p>
+<p>Studying "Análise e Desenvolvimento de Sistemas" at Universidade Cruzeiro do Sul.</p>
+<p>Plan on studyng cybersecurity after The Odin Project</p>
+
+<hr>
+
 - 📫 How to reach me **leonardomullerdelima@pm.me**
 
 <hr>
