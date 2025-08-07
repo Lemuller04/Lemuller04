@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lemuller04&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemuller04&layout=compact&theme=radical" />
 </div>
-
+<br>
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+<br>
 (This readme is a WIP :)
