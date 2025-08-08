@@ -27,7 +27,7 @@
 ### Tools
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://neovim.io/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-logo.svg" alt="Neovim" width="40" height="40"> </a>
+<a href="https://neovim.io/"> <img src="https://avatars.githubusercontent.com/u/6471485?s=48&v=4" alt="Neovim" width="40" height="40"> </a>
 
 ## 📊 GitHub Stats
 
