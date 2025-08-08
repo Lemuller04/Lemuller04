@@ -31,9 +31,15 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lemuller04&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemuller04&layout=compact&theme=radical" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lemuller04&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemuller04&layout=compact&theme=radical" />
+</div>div>
+
+---
 
 - 📫 How to reach me - [leonardomullerdelima@pm.me](mailto:leonardomullerdelima@pm.me)
+
+---
 
 🌱 “Learning never exhausts the mind.” – Leonardo da Vinci
