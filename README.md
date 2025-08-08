@@ -29,13 +29,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://neovim.io/"> <img src="https://avatars.githubusercontent.com/u/6471485?s=48&v=4" alt="Neovim" width="40" height="40"> </a>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemuller04&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemuller04&layout=compact&theme=radical" />
-</div>
-
 ---
 
 - 📫 How to reach me - [leonardomullerdelima@pm.me](mailto:leonardomullerdelima@pm.me)
