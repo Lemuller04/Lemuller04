@@ -7,6 +7,7 @@
 - 🛡️ Aspiring cybersecurity specialist
 - 🐧 Linux lover and open-source supporter
 - 🧩 Always curious, always learning
+- [Homepage](https://lemuller04.github.io/odin-homepage) (WIP)
 
 ## Currently
 
